@@ -1,6 +1,4 @@
-cd C:\Users\pratibhasingh\OneDrive\Desktop\Pratibha_Projects\history
-ls
-cd ..
+$ cd ..
 $ ls
 Desktop Documents Downloads history.sh Music Pictures Public Templates unix1.sh usecommand Videos
 $ mkdir CAD
