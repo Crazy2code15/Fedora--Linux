@@ -16,6 +16,6 @@ shift(@str, 'mon');
 print "shift op: \n \t";
 print "@str \n";
 
-unshift(@str, 'mon');
-print "unshift op: \n \t";
+shift(@str);
+print "shift op: \n \t";
 print "@str \n";
